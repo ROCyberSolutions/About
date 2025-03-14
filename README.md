@@ -1,4 +1,4 @@
-# ![ROCYBER SOLUTIONS Logo](https://github.com/ROCyberSolutions/your-repository-name/blob/main/assets/logo.png)
+# ![ROCYBER SOLUTIONS Logo](https://github.com/ROCyberSolutions/ROCYBER_Solutions_5_2mb.gif)
 
 # **ROCYBER SOLUTIONS**
 
